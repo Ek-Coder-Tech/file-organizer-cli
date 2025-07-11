@@ -41,7 +41,7 @@ A simple, colorful command-line tool built with Python that helps you organize f
 
 ## 🖥️ Sample Output
 A sample run of the script showing how files are organized by type using the terminal.
-![file organizer screenshot](file organizer.png)
+![file organizer screenshot](file_organizer.png)
 
 
 💼 Use Cases
