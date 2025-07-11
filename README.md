@@ -41,7 +41,7 @@ A simple, colorful command-line tool built with Python that helps you organize f
 
 📸 Screenshot
 Example of organizing files by type with colorful output using Colorama
-![file organizer screenshot](file_organizer.png)
+![file organizer screenshot](https://raw.githubusercontent.com/Ek-Coder-Tech/file-organizer-cli/main/file_organizer.png)
 
 💼 Use Cases
 Organizing downloaded files by month or type
