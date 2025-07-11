@@ -39,9 +39,10 @@ A simple, colorful command-line tool built with Python that helps you organize f
 🛠️  Do you want to 'move' files into folders or just 'rename' them? rename
 ✅ 4 file(s) renamed with type prefix.
 
-📸 Screenshot
-Example of organizing files by type with colorful output using Colorama
-![file organizer screenshot](https://raw.githubusercontent.com/Ek-Coder-Tech/file-organizer-cli/main/file_organizer.png)
+## 🖥️ Sample Output
+A sample run of the script showing how files are organized by type using the terminal.
+![File Organizer Screenshot](File_Organizer.png)
+
 
 💼 Use Cases
 Organizing downloaded files by month or type
