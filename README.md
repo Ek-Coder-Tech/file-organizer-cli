@@ -1,49 +1,50 @@
-# 📂 File Organizer (Python CLI Tool with Colorama)
+# 🗂️ File Organizer – CLI Tool
 
-A simple, colorful command-line tool built with Python that helps you organize files in a folder by **file type** or **modification date**. Ideal for individuals or small teams who want a lightweight automation tool without complicated setup.
-
----
-
-## 🔧 Features
-
-- 🗂️ Organize files by **type** (e.g., PDF, JPG, TXT)
-- 📅 Organize files by **last modified date** (e.g., 2025-07)
-- 🎨 Uses **Colorama** to highlight key actions and feedback
-- 🛠️ Choose between:
-  - **Move** files into folders
-  - **Rename** files with type or date prefixes
-- 🧑‍💻 Easy to use in the terminal — no external tools required
+A terminal-based file organizer that helps users clean up messy folders by sorting files either by **file type** or **modification date**. Built with Python and designed for real-world productivity needs.
 
 ---
 
-## 🖥️ How It Works
+## 🚀 Features
 
-1. Run the script in a terminal or IDE (like Replit or VS Code)
-2. Enter the name of the folder containing your files (e.g., `test_folder`)
-3. Choose whether to organize by:
-   - `type` → groups files by extension
-   - `date` → groups files by last modified date
-4. Choose whether to:
-   - `move` → place files into subfolders
-   - `rename` → prefix file names instead of moving
+- ✅ Organize files by **Type** (e.g., PDFs, JPGs, TXTs, DOCXs)
+- ✅ Organize files by **Date** (based on last modified date)
+- ✅ Choose to **Move** files into folders or **Rename** them with prefixes
+- ✅ Clear instructions and feedback directly in the terminal
+- ✅ Includes color-enhanced output using `colorama`
 
 ---
 
-## 📁 Example Output
+## 🖼️ Sample Output
 
-```bash
-📂 Welcome to File Organizer!
-📁 Enter the folder name to organize: test_folder
-🔎 Looking in folder: /home/runner/workspace/test_folder
-🔧 Choose organization method ('type' or 'date'): type
-🛠️  Do you want to 'move' files into folders or just 'rename' them? rename
-✅ 4 file(s) renamed with type prefix.
+A sample run showing organization by file type in the terminal:
 
-## 🖥️ Sample Output
-A sample run of the script showing how files are organized by type using the terminal.
 ![File Organizer Screenshot](https://raw.githubusercontent.com/Ek-Coder-Tech/file-organizer-cli/main/file_organizer.png)
 
-💼 Use Cases
+---
+
+## 📂 How It Works
+
+1. User is prompted to enter the name of the folder to organize (must exist in the current directory).
+2. User chooses how to organize files:  
+   - `'type'`: by file extensions (e.g., `.pdf`, `.jpg`, `.txt`)  
+   - `'date'`: by file modification dates (e.g., `2024-10-01`)
+3. User selects whether to:  
+   - `'move'` files into folders, or  
+   - `'rename'` files using a prefix
+4. Script scans the folder, applies changes, and prints a summary of the results.
+
+---
+
+## 🔧 Technologies Used
+
+- **Python 3.x**
+- Built-in modules: `os`, `shutil`, `datetime`
+- `colorama` for enhanced terminal output (cross-platform)
+
+---
+
+## 💼 Use Cases
+
 Organizing downloaded files by month or type
 
 Preparing files for upload or backup
@@ -52,48 +53,47 @@ Renaming photos, documents, or scanned files
 
 Lightweight alternative to complex file management tools
 
-🧑‍💻 Technologies Used
-Python 3
+---
 
-Colorama (for terminal color)
+## 🔍 Folder Structure
 
-Built-in modules: os, shutil, datetime
-
-🚀 Getting Started
-Requirements
-Python 3.x
-
-colorama package
-
-Installation (Local)
 bash
+
 Copy
+
 Edit
-pip install colorama
-Run the Script
-bash
-Copy
-Edit
-python main.py
-🔍 Folder Structure
-bash
-Copy
-Edit
-file-organizer-python-cli/
-│
+
+file-organizer-cli/
+
 ├── main.py            # Python script
-├── screenshot.png     # Terminal + code screenshot
+
+├── file_organizer.png     # Terminal + code screenshot
+
 ├── README.md          # Project documentation
+
 └── test_folder/       # (Optional) Sample folder for demo
 
-🧑‍🎓 Author
-Eric Mutisya
-Freelance Python Developer
-GitHub: Ek-Coder-Tech
+---
 
-📜 License
+## 🧑‍🎓 Author
+
+Eric Kyalo
+
+Freelance Python Developer
+
+GitHub: https://github.com/Ek-Coder-Tech
+
+Upwork: https://www.upwork.com/freelancers/~012558bab6232e8e65
+
+---
+
+## 📜 License
+
 This project is open-source and free to use.
 Attribution appreciated but not required.
 
-🙌 Acknowledgements
-Thanks to Colorama for bringing life to the terminal — and to all open-source contributors who help beginners build real tools!
+---
+
+## 📌 Notes
+
+This is part of my journey to build real, useful Python tools and contribute to solving small business and personal productivity challenges using code. Feedback is welcome!
