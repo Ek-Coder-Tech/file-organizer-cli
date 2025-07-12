@@ -41,7 +41,7 @@ A simple, colorful command-line tool built with Python that helps you organize f
 
 ## 🖥️ Sample Output
 A sample run of the script showing how files are organized by type using the terminal.
-![File Organizer Screenshot](https://raw.githubusercontent.com/Ek-Coder-Tech/file-organizer-cli/main/File_Organizer.png)
+![File Organizer Screenshot](https://raw.githubusercontent.com/Ek-Coder-Tech/file-organizer-cli/main/file_organizer.png)
 
 💼 Use Cases
 Organizing downloaded files by month or type
