@@ -75,25 +75,23 @@ file-organizer-cli/
 
 ---
 
-## 🧑‍🎓 Author
+## 🙌 Author
 
-Eric Kyalo
-
-Freelance Python Developer
-
-GitHub: https://github.com/Ek-Coder-Tech
-
-Upwork: https://www.upwork.com/freelancers/~012558bab6232e8e65
+**Eric Mutisya**  
+Python Developer | Web Developer | Freelancer  
+Upwork Profile: https://www.upwork.com/freelancers/~012558bab6232e8e65
 
 ---
 
-## 📜 License
+## 📄 License
 
-This project is open-source and free to use.
-Attribution appreciated but not required.
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this project with attribution.
 
 ---
 
-## 📌 Notes
+## 🙋‍♂️ Author's Note
 
-This is part of my journey to build real, useful Python tools and contribute to solving small business and personal productivity challenges using code. Feedback is welcome!
+This project was built as part of my practical journey into freelance development using Python.  
+If you're a client looking for a similar automation or document solution — I'd be happy to help!  
+Let’s connect on [Upwork](https://www.upwork.com/freelancers/~012558bab6232e8e65) or [GitHub](https://github.com/Ek-Coder-Tech).
