@@ -6,19 +6,17 @@ A terminal-based file organizer that helps users clean up messy folders by sorti
 
 ## 🚀 Features
 
-- ✅ Organize files by **Type** (e.g., PDFs, JPGs, TXTs, DOCXs)
-- ✅ Organize files by **Date** (based on last modified date)
-- ✅ Choose to **Move** files into folders or **Rename** them with prefixes
-- ✅ Clear instructions and feedback directly in the terminal
-- ✅ Includes color-enhanced output using `colorama`
+- Organize files by **Type** (e.g., PDFs, JPGs, TXTs, DOCXs)
+- Organize files by **Date** (based on last modified date)
+- Choose to **Move** files into folders or **Rename** them with prefixes
+- Clear instructions and feedback directly in the terminal
+- Includes color-enhanced output using `colorama`
 
 ---
 
-## 🖼️ Sample Output
+## 🖼️ Screenshot
 
-A sample run showing organization by file type in the terminal:
-
-![File Organizer Screenshot](https://raw.githubusercontent.com/Ek-Coder-Tech/file-organizer-cli/main/file_organizer.png)
+![A sample run showing organization by file type in the terminal](https://raw.githubusercontent.com/Ek-Coder-Tech/file-organizer-cli/main/file_organizer.png)
 
 ---
 
@@ -45,23 +43,14 @@ A sample run showing organization by file type in the terminal:
 
 ## 💼 Use Cases
 
-Organizing downloaded files by month or type
-
-Preparing files for upload or backup
-
-Renaming photos, documents, or scanned files
-
-Lightweight alternative to complex file management tools
+ - Organizing downloaded files by month or type
+ - Preparing files for upload or backup
+ - Renaming photos, documents, or scanned files
+ - Lightweight alternative to complex file management tools
 
 ---
 
 ## 🔍 Folder Structure
-
-bash
-
-Copy
-
-Edit
 
 file-organizer-cli/
 
@@ -75,23 +64,20 @@ file-organizer-cli/
 
 ---
 
-## 🙌 Author
+## 👤 Author
 
-**Eric Mutisya**  
-Python Developer | Web Developer | Freelancer  
-Upwork Profile: https://www.upwork.com/freelancers/~012558bab6232e8e65
+**Eric M.**  
+Python Developer & Web Automation Freelancer  
+[View My GitHub Projects](https://github.com/Ek-Coder-Tech)
 
 ---
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).  
-You are free to use, modify, and distribute this project with attribution.
+MIT License
 
 ---
 
-## 🙋‍♂️ Author's Note
+## 📬 Contact
 
-This project was built as part of my practical journey into freelance development using Python.  
-If you're a client looking for a similar automation or document solution — I'd be happy to help!  
-Let’s connect on [Upwork](https://www.upwork.com/freelancers/~012558bab6232e8e65) or [GitHub](https://github.com/Ek-Coder-Tech).
+For freelance inquiries, please reach out via [Upwork Profile](https://www.upwork.com/freelancers/~012558bab6232e8e65)
