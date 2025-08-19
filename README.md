@@ -16,6 +16,8 @@ A terminal-based file organizer that helps users clean up messy folders by sorti
 
 ## 🖼️ Screenshot
 
+A sample run showing organization by file type in the terminal:
+
 ![A sample run showing organization by file type in the terminal](https://raw.githubusercontent.com/Ek-Coder-Tech/file-organizer-cli/main/file_organizer.png)
 
 ---
